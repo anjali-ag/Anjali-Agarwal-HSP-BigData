@@ -1,9 +1,9 @@
-#What I hope to learn\
-I hope to learn how to code in R and advance my statistical knowledge and improve data analysis skills.
-I hope to learn the foundations of AI, ML and data science so that I gain insight and can consider them as course options
+# What I hope to learn
+I hope to learn how to code in R and advance my statistical knowledge and improve data analysis skills.\
+I hope to learn the foundations of AI, ML and data science so that I gain insight and can consider them as course options\
 I hope to learn the real world applications of big data and ML, and correlate it with day to day life
 
-#Day 1 \
+# Day 1 
 We started with viewing a video of an Iron Man fight scene where we had to figure out what kind of data his AI used to analyse Captain America's fight pattern\
 We split into breakout rooms and discussed about the different data used such as speed, force, previous records\
 Then we learnt about supervised learning and how a data science project is structured.\
